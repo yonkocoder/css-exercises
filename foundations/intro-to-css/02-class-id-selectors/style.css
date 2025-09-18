@@ -1,0 +1,19 @@
+.odd.gang {
+    background-color: rgb(238, 167, 167);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#big {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.gang.cooler {
+    font-size: 24px;
+}
+
+#bold {
+    background-color: hsl(120, 100%, 80%);
+    font-size: 24px;
+    font-weight: bold;
+}
